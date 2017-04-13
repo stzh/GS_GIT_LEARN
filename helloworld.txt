@@ -1,0 +1,5 @@
+Hi all,
+This is a test file for you to learn Git.
+Enjoy it!
+
+Steven Zhou
